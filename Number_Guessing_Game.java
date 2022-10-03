@@ -36,6 +36,8 @@ public class Number_Guessing_Game {
          
                count ++;
             }
+            System.out.println("\n*****Better luck next time ...*****");
+            Game();
         case 2:
             count=0;
             System.out.println("There many attemp to find the number ");
